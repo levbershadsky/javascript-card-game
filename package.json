@@ -1,0 +1,17 @@
+{
+    "name": "javascript-card-game",
+    "version": "1.0.0",
+    "description": "A fun number card game where you try to reach 6 or 7 without going over 10",
+    "main": "index.html",
+    "scripts": {
+          "start": "open index.html"
+    },
+    "keywords": [
+          "game",
+          "card-game",
+          "javascript",
+          "web-game"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+}
